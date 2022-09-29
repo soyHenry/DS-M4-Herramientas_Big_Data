@@ -480,7 +480,7 @@ only showing top 20 rows
 
 A partir de la tabla venta generada en Parqet, realizar el proceso de filtrado de valores outliers utilizando Spark.
 
-#### 5) Carga incremental con Spark 
+## 7) Carga incremental con Spark 
 
 Ahora resta evaluar qué sucede cuando en los sistemas fuente, se genere más dato, es decir, siguiendo los datos de esta práctica, qué pasa cuando se carguen más ventas. Se debería tomar las novedades e ingestar en el modelo existente cada día, de modo que la tabla venta, irá creciendo en cantidad de registro de manera diaria.
 Para este fin, se provee un script en spark que realiza la generación de nuevas ventas, de manera aleatoria, para poder crear una situación, donde se cuenta con novedades para la tabla de venta. El script "Paso06_GeneracionVentasNuevasPorDia.py" utiliza los datasets provistos en la carpeta "Datasets\data_nvo" para generar las novedades de forma automática. Revisar la variable "fecha_nvo" que contiene la fecha para la que se quiere generar información, como tenemos datos hasta el año 2020, la fecha de ejemplo tomada es '2021-01-01'.
@@ -502,6 +502,6 @@ Con crontab, para que ejecute cada día a las 5 AM:
 	$ crontab -l
 ```	
 
-## 5) Herramientas de orquestación de flujos de datos
+## 8) Herramientas de orquestación de flujos de datos
 
 https://github.com/sercasti/datalaketools
