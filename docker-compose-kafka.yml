@@ -1,0 +1,36 @@
+version: '2.1'
+services:
+
+  zookeeper:
+    image: wurstmeister/zookeeper:3.4.6
+    container_name: zookeeper_container
+    ports:
+      - "2181:2181"
+
+  kafka:
+    image: wurstmeister/kafka:2.12-2.2.1
+    container_name: kafka_container
+    ports:
+      - "9092:9092"
+    depends_on:
+      - zookeeper
+    environment:
+      KAFKA_ADVERTISED_HOST_NAME: "kafka"                                   # specify the docker host IP at which other containers can reach the broker
+      KAFKA_ADVERTISED_PORT: "9092"
+      HOSTNAME_COMMAND: "route -n | awk '/UG[ \t]/{print $$2}'"
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181                               # specify where the broker can reach Zookeeper
+      #KAFKA_CREATE_TOPICS: "Rides:1:1, Fares:1:1, DriverChanges:1:1"
+      #KAFKA_LISTENERS: PLAINTEXT://kafka:9092                              # the list of addresses on which the Kafka broker will listen on for incoming connections.
+      #KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092                   # Kafka sends the value of this variable to clients during their connection. After receiving that value, the clients use it for sending/consuming records to/from the Kafka broker.y connect to it.
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+
+  manager:
+    image: sheepkiller/kafka-manager
+    container_name: kafka_manager
+    ports:
+      - "9000:9000"
+    environment:
+      ZK_HOSTS: zookeeper:2181
+    depends_on:
+      - zookeeper

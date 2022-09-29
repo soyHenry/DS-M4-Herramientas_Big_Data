@@ -1,0 +1,268 @@
+﻿ID_empleado;Apellido;Nombre;Sucursal;Sector;Cargo;Salario
+1968;Burgos;Jeronimo;Caseros;Administración;Administrativo;32000,00
+1674;Villegas;Estefania;Caseros;Administración;Vendedor;32000,00
+1516;Fernandez;Guillermo;Caseros;Administración;Vendedor;45000,00
+1330;Ramirez;Eliana;Caseros;Administración;Vendedor;32000,00
+1657;Carmona;Jose;Caseros;Administración;Vendedor;32000,00
+1573;De santis;Marcela;Caseros;Administración;Aux. Administrativo;15000,00
+1658;Franco;Daniela;Caseros;Administración;Vendedor;32000,00
+1078;Cortes;Rafael;Caseros;Diseño;Administrativo;42000,00
+1695;Berrio;Camilo;Cabildo;Diseño;Vendedor;32000,00
+1285;Arias;Francisco;Cabildo;Diseño;Vendedor;32000,00
+1284;Merizalde;Antonio;Cabildo;Diseño;Vendedor;32000,00
+1517;Restrepo;Karen;Cabildo;Diseño;Aux. Administrativo;15000,00
+1674;Lemus;David;Cabildo;Diseño;Vendedor;32000,00
+1056;Santana;Javier;Cabildo;Comunicación;Administrativo;56000,00
+1977;Saldarriaga;Virginia;Cabildo;Comunicación;Vendedor;42000,00
+1725;Posada;Sergio;Cabildo;Comunicación;Vendedor;56000,00
+1675;Zea ;Jorge;Cabildo;Comunicación;Vendedor;65000,00
+1968;Diaz ;Mariana;Cabildo;Comunicación;Vendedor;32000,00
+1723;Giraldo;Esteban;Cabildo;Ventas;Aux. Administrativo;13500,00
+1076;Idarraga;Jorge;Moron;Ventas;Aux. Administrativo;12000,00
+1816;Simanca;Alejandro;Moron;Ventas;Aux. Administrativo;16000,00
+1154;Pulgarin;Angelica;Moron;Ventas;Administrativo;41000,00
+1294;Aguirre;Brenda;Moron;Ventas;Vendedor;32000,00
+1428;Tamayo;Gloria;Moron;Ventas;Vendedor;32000,00
+1814;Carmona ;Andrea;Moron;Ventas;Vendedor;32000,00
+1978;Diaz ;Lucero;Moron;Ventas;Vendedor;32000,00
+1531;Alzate;Angela;Moron;Ventas;Técnico;28000,00
+1931;Arango;Felipe;Moron;Administración;Administrativo;25600,00
+1932;Garces;Elena;Moron;Administración;Administrativo;24000,00
+1291;Uribe;Carmen;Moron;Administración;Aux. Administrativo;13500,00
+1530;Ospina;Daniel;Moron;Administración;Vendedor;14600,00
+1152;Peláez;Alberto;Moron;Administración;Vendedor;13500,00
+1079;Perez;Elena;Palermo 1;Administración;Vendedor;13500,00
+1676;Carmona;Sebastian;Palermo 1;Administración;Vendedor;15000,00
+1290;Cifuentes;Oscar;Palermo 1;Administración;Vendedor;13500,00
+1961;Jaramillo;Santiago;Palermo 1;Administración;Vendedor;13500,00
+1675;Melano;Luis;Palermo 1;Administración;Vendedor;13500,00
+1368;Mendez;José;Palermo 1;Administración;Vendedor;12800,00
+1153;Ramirez;Tomas;Palermo 1;Administración;Técnico;13500,00
+1960;Girando;Felipe;Palermo 1;Administración;Aux. Administrativo;13500,00
+1908;Diez;Patricia;Palermo 1;Administración;Administrativo;56000,00
+1011;Sierra;Luisa;Castelar;Administración;Vendedor;27000,00
+1359;Vallejo;Sara;Castelar;Diseño;Vendedor;23000,00
+1724;Guerrero;Alexandra;Castelar;Diseño;Vendedor;23000,00
+1923;Guerra;Lisa;Castelar;Diseño;Vendedor;23000,00
+1794;Rodríguez ;Ana Maria;Castelar;Diseño;Vendedor;23000,00
+1558;Marulanda;Sofia;Castelar;Diseño;Vendedor;23000,00
+1949;Palacio;Paula;Castelar;Diseño;Vendedor;41000,00
+1311;Bermudez;Jesus;Castelar;Diseño;Vendedor;38000,00
+1906;Toledo;Roberta;Castelar;Diseño;Aux. Administrativo;13500,00
+1656;Arango;Tatiana;Castelar;Diseño;Administrativo;25000,00
+1907;Acevedo;Melina;Castelar;Diseño;Administrativo;26000,00
+1724;Cock;Cristina;Palermo 2;Diseño;Administrativo;29600,00
+1301;Casadiegos;Manuela;Palermo 2;Diseño;Aux. Administrativo;13500,00
+1292;Salamanca;Isabel;Palermo 2;Diseño;Administrativo;43500,00
+1167;Arango;Juan;Palermo 2;Diseño;Administrativo;56000,00
+1950;Granda;Luisa;Palermo 2;Diseño;Vendedor;49000,00
+1792;Arango ;Monica;Palermo 2;Diseño;Técnico;20000,00
+1977;Arroyave;Federico;Palermo 2;Diseño;Técnico;13000,00
+1067;Lemos;Dalia;Palermo 2;Diseño;Técnico;11000,00
+1976;Jaramillo;Ana;Palermo 2;Ventas;Aux. Administrativo;13500,00
+1168;Lema;Maria;Palermo 2;Ventas;Aux. Administrativo;13500,00
+1815;Caro;Diana;Palermo 2;Ventas;Administrativo;56000,00
+1068;Vergara;Amalia;Palermo 2;Ventas;Vendedor;32000,00
+1012;Duque;Julian;Palermo 2;Ventas;Vendedor;24000,00
+1301;Muñoz;Maritza;Corrientes;Ventas;Vendedor;32000,00
+1556;Peláez;Andrés;Corrientes;Ventas;Vendedor;32000,00
+1933;Sanchez;Miguel;Corrientes;Ventas;Vendedor;32000,00
+1333;Cano;Carolina;Corrientes;Ventas;Vendedor;32000,00
+1510;Marquez;Jessica;Corrientes;Ventas;Vendedor;48000,00
+1574;Rico;Samuel;Corrientes;Ventas;Vendedor;32000,00
+1360;Mendez;Gustavo;Corrientes;Ventas;Vendedor;40000,00
+1293;Jimenez;Karina;Corrientes;Ventas;Técnico;17000,00
+1329;Osorio;Julieth;Almagro;Ventas;Vendedor;35000,00
+1572;Villamizar;Lina;Almagro;Ventas;Vendedor;36000,00
+1300;Gomez;Carlos;Almagro;Ventas;Administrativo;23000,00
+1557;Gracía;Simón;Almagro;Ventas;Aux. Administrativo;13900,00
+1169;Castro;Monica;Almagro;Ventas;Administrativo;57000,00
+1758;Uribe;Melisa;Almagro;Ventas;Técnico;19000,00
+1310;Florez;Alejandra;Almagro;Ventas;Técnico;13500,00
+1041;Gutierrez;Amalia;Almagro;Ventas;Vendedor;49000,00
+1361;Medina;Raquel;Caballito;Ventas;Vendedor;29400,00
+1793;Betancur;Gonzalo;Caballito;Administración;Vendedor;13500,00
+1725;Marquez;Isabella;Caballito;Administración;Administrativo;56000,00
+1969;Molina;Karla;Caballito;Administración;Aux. Técnico;9800,00
+1962;Rodriguez;Hilda;Caballito;Administración;Vendedor;29000,00
+1967;Hincapie;Victoria;Caballito;Administración;Vendedor;46000,00
+1426;Rojas ;Pablo;Caballito;Administración;Vendedor;56000,00
+1509;Serna;Pamela;Caballito;Ventas;Aux. Administrativo;13500,00
+1673;Zapata;Stepania;San Justo;Ventas;Vendedor;13500,00
+1352;Toro;Manuel;San Justo;Ventas;Vendedor;19800,00
+1922;Henao;Barbara;San Justo;Ventas;Vendedor;21000,00
+1518;Vasquez;Leonardo;San Justo;Ventas;Vendedor;26000,00
+1331;Castrillón;Juliana;San Justo;Ventas;Vendedor;31000,00
+1303;Lopez;Dinara;San Justo;Ventas;Administrativo;56000,00
+1302;Mota;Elisa;San Justo;Ventas;Vendedor;38000,00
+1334;Perez;Alicia;San Justo;Ventas;Aux. Administrativo;13500,00
+1975;Posada;Carlos;Flores;Derecho;Vendedor;32000,00
+1759;Arango;Mauricio;Flores;Derecho;Vendedor;47000,00
+1055;Hoyos;Adriana;Flores;Derecho;Vendedor;32000,00
+1054;Suarez;Miguel;Flores;Derecho;Vendedor ;41000,00
+1075;Aristizabal;Natalia;Flores;Derecho;Vendedor ;32000,00
+1966;Dominguez ;Camila;Flores;Derecho;Vendedor ;39000,00
+1354;Ruiz;Susana;Flores;Derecho;Administrativo;32000,00
+1696;Higuita;Cathy;Flores;Derecho;Vendedor;32000,00
+1299;Osorio;Catalina;Flores;Derecho;Vendedor;32000,00
+1529;Gomez;Mariana;Flores;Publicidad;Vendedor;32000,00
+1080;Bustos;Jacobo;Flores;Publicidad;Vendedor ;37000,00
+1353;Rodas;Gabriel;Flores;Publicidad;Vendedor ;36000,00
+1369;Cano;Sandra;Flores;Publicidad;Administrativo;42000,00
+1370;Diaz ;Evelyn;Alberdi;Publicidad;Vendedor ;36000,00
+1677;Hernandez ;Juan;Alberdi;Publicidad;Vendedor ;37000,00
+1427;Jaramillo;David;Alberdi;Publicidad;Vendedor ;34000,00
+2806;Duque;Jeronimo;Alberdi;Administración;Administrativo;32000,00
+2731;Muñoz;Estefania;Alberdi;Administración;Vendedor;32000,00
+2024;Peláez;Guillermo;Alberdi;Administración;Vendedor;45000,00
+2630;Sanchez;Eliana;Alberdi;Administración;Vendedor;32000,00
+2486;Cano;Jose;Deposito;Administración;Vendedor;32000,00
+2988;Marquez;Marcela;Deposito;Administración;Aux. Administrativo;15000,00
+2768;Rico;Daniela;Deposito;Administración;Vendedor;32000,00
+2212;Mendez;Rafael;Deposito;Diseño;Administrativo;42000,00
+2075;Jimenez;Camilo;Deposito;Diseño;Vendedor;32000,00
+2779;Osorio;Francisco;Velez;Diseño;Vendedor;32000,00
+2468;Zerra;Antonio;Velez;Diseño;Vendedor;32000,00
+2762;Gomez;Karen;Velez;Diseño;Aux. Administrativo;15000,00
+2351;Gracía;David;Velez;Diseño;Vendedor;32000,00
+2557;Castro;Javier;Velez;Comunicación;Administrativo;56000,00
+2508;Peppe;Santiago;Velez;Comunicación;Vendedor;42000,00
+2411;Hoyos;Luis;Velez;Comunicación;Vendedor;56000,00
+2120;Suarez;José;Velez;Comunicación;Vendedor;65000,00
+2157;Arias;Tomas;Velez;Comunicación;Vendedor;32000,00
+2580;Dominguez ;Felipe;Vicente Lopez;Ventas;Aux. Administrativo;13500,00
+2097;Ruiz;Patricia;Vicente Lopez;Ventas;Aux. Administrativo;12000,00
+2243;Pailos;Luisa;Vicente Lopez;Ventas;Aux. Administrativo;16000,00
+2467;Osorio;Sara;Vicente Lopez;Ventas;Administrativo;41000,00
+2063;Gomez;Alejandra;Vicente Lopez;Ventas;Vendedor;32000,00
+2059;Bustos;Lisa;Vicente Lopez;Ventas;Vendedor;32000,00
+2784;Rodas;Ana Maria;Vicente Lopez;Ventas;Vendedor;32000,00
+2532;Cano;Sofia;Vicente Lopez;Ventas;Vendedor;32000,00
+2337;Diaz ;Paula;Vicente Lopez;Ventas;Técnico;28000,00
+2191;Hernandez ;Jesus;Vicente Lopez;Administración;Administrativo;25600,00
+2869;Jaramillo;Hernán;San Isidro;Administración;Administrativo;24000,00
+2896;Vasquez;Carmen;San Isidro;Administración;Aux. Administrativo;13500,00
+2427;Castrillón;Daniel;San Isidro;Administración;Vendedor;14600,00
+2786;Lopez;Alberto;San Isidro;Administración;Vendedor;13500,00
+2614;Mota;Elena;San Isidro;Administración;Vendedor;13500,00
+2599;Perez;Sebastian;San Isidro;Administración;Vendedor;15000,00
+2589;Posada;Oscar;San Isidro;Administración;Vendedor;13500,00
+3917;Burgos;Julian;Lanus;Administración;Vendedor;13500,00
+3172;Villegas;Marisa;Lanus;Administración;Vendedor;13500,00
+3607;Fernandez;Andrés;Lanus;Administración;Vendedor;12800,00
+3728;Ramirez;Miguel;Lanus;Administración;Técnico;13500,00
+3619;Carmona;Carolina;Lanus;Administración;Aux. Administrativo;13500,00
+3681;De santis;Jessica;Lanus;Administración;Administrativo;56000,00
+3111;Franco;Samuel;Lanus;Administración;Vendedor;27000,00
+3558;Cortes;Gustavo;Lanus;Diseño;Vendedor;23000,00
+3167;Berrio;Karina;Lanus;Diseño;Vendedor;23000,00
+3712;Arias;Julieta;Avellaneda;Diseño;Vendedor;23000,00
+3502;Merizalde;Lina;Avellaneda;Diseño;Vendedor;23000,00
+3481;Restrepo;Carlos;Avellaneda;Diseño;Vendedor;23000,00
+3664;Lemus;Simón;Avellaneda;Diseño;Vendedor;41000,00
+3859;Santana;Monica;Avellaneda;Diseño;Vendedor;38000,00
+3421;Saldarriaga;Melisa;Avellaneda;Diseño;Aux. Administrativo;13500,00
+3850;Posada;Alejandra;Avellaneda;Diseño;Administrativo;25000,00
+3365;Zea ;Amalia;Quilmes;Diseño;Administrativo;26000,00
+3685;Diaz ;Raquel;Quilmes;Diseño;Administrativo;29600,00
+3390;Giraldo;Gonzalo;Quilmes;Diseño;Aux. Administrativo;13500,00
+3481;Idarraga;Santiago;Quilmes;Diseño;Administrativo;43500,00
+3195;Simanca;Isabella;Quilmes;Diseño;Administrativo;56000,00
+3250;Pulgarin;Carla;Quilmes;Diseño;Vendedor;49000,00
+3496;Aguirre;Hilda;Quilmes;Diseño;Técnico;20000,00
+3141;Tamayo;Victoria;La Plata;Diseño;Técnico;13000,00
+3663;Carmona ;Pablo;La Plata;Diseño;Técnico;11000,00
+3485;Diaz ;Pamela;La Plata;Ventas;Aux. Administrativo;13500,00
+3874;Alzate;Estafania;La Plata;Ventas;Aux. Administrativo;13500,00
+3800;Arango;Manuel;La Plata;Ventas;Administrativo;56000,00
+3752;Uribe;Leonardo;La Plata;Ventas;Vendedor;24000,00
+3082;Ospina;Juliana;La Plata;Ventas;Vendedor;32000,00
+3186;Peláez;Diana;La Plata;Ventas;Vendedor;32000,00
+3300;Perez;Elisa;MDQ1;Ventas;Vendedor;32000,00
+3363;Carmona;Alicia;MDQ1;Ventas;Vendedor;32000,00
+3099;Cifuentes;Carlos;MDQ1;Ventas;Vendedor;48000,00
+3303;Jaramillo;Mauricio;MDQ1;Ventas;Vendedor;32000,00
+3339;Melano;Adriana;MDQ1;Ventas;Vendedor;40000,00
+3849;Mendez;Miguel;MDQ1;Ventas;Técnico;17000,00
+3766;Ramirez;Natalia;MDQ1;Ventas;Vendedor;35000,00
+3576;Girando;Camila;MDQ2;Ventas;Vendedor;36000,00
+3430;Diez;Susana;MDQ2;Ventas;Administrativo;23000,00
+3071;Sierra;Cathy;MDQ2;Ventas;Aux. Administrativo;13900,00
+3842;Vallejo;Catalina;MDQ2;Ventas;Administrativo;57000,00
+3979;Guerrero;Mariana;MDQ2;Ventas;Técnico;19000,00
+3622;Guerra;Jacobo;MDQ2;Ventas;Técnico;13500,00
+3643;Rodríguez ;Gabriel;MDQ2;Ventas;Vendedor;49000,00
+3876;Marulanda;Sandra;Rosario1;Ventas;Vendedor;29400,00
+3504;Palacio;Evelyn;Rosario1;Administración;Vendedor;13500,00
+3708;Bermudez;Juan;Rosario1;Administración;Aux. Administrativo;13500,00
+3700;Toledo;David;Rosario1;Administración;Administrativo;56000,00
+3810;Diez;Santiago;Rosario1;Administración;Aux. Técnico;9800,00
+3166;Sierra;Luis;Rosario1;Administración;Vendedor;29000,00
+3412;Vallejo;José;Rosario1;Administración;Vendedor;46000,00
+3346;Guerrero;Tomas;Rosario1;Administración;Vendedor;56000,00
+3119;Guerra;Felipe;Rosario1;Ventas;Aux. Administrativo;13500,00
+3537;Rodríguez ;Patricia;Rosario1;Ventas;Vendedor;13500,00
+3603;Marulanda;Luisa;Rosario1;Ventas;Vendedor;19800,00
+3054;Palacio;Sara;Rosario1;Ventas;Vendedor;21000,00
+3751;Bermudez;Alejandra;Rosario2;Ventas;Vendedor;26000,00
+3855;Toledo;Lisa;Rosario2;Ventas;Vendedor;31000,00
+3743;Arango;Ana Maria;Rosario2;Ventas;Administrativo;56000,00
+3919;Acevedo;Sofia;Rosario2;Ventas;Vendedor;38000,00
+3144;Cock;Paula;Rosario2;Ventas;Aux. Administrativo;13500,00
+3595;Casadiegos;Jesus;Rosario2;Derecho;Vendedor;32000,00
+3816;Salamanca;Hernán;Rosario2;Derecho;Vendedor;47000,00
+3433;Arango;Carmen;Rosario2;Derecho;Vendedor;32000,00
+3603;Granda;Daniel;Rosario2;Derecho;Vendedor ;41000,00
+3047;Arango ;Alberto;Rosario2;Derecho;Vendedor ;32000,00
+3478;Arroyave;Elena;Córdoba Centro;Derecho;Vendedor ;39000,00
+3905;Lemos;Sebastian;Córdoba Centro;Derecho;Administrativo;32000,00
+3287;Jaramillo;Oscar;Córdoba Centro;Derecho;Vendedor;32000,00
+3916;Lema;Julian;Córdoba Centro;Derecho;Vendedor;32000,00
+3622;Caro;Marisa;Córdoba Centro;Publicidad;Vendedor;32000,00
+3950;Vergara;Andrés;Córdoba Centro;Publicidad;Vendedor ;37000,00
+3599;Duque;Miguel;Córdoba Centro;Publicidad;Vendedor ;36000,00
+3875;Muñoz;Carolina;Córdoba Centro;Publicidad;Administrativo;42000,00
+3110;Peláez;Jessica;Córdoba Centro;Publicidad;Vendedor ;36000,00
+3728;Sanchez;Samuel;Córdoba Centro;Publicidad;Vendedor ;37000,00
+3455;Cano;Gustavo;Cordoba Quiroz;Publicidad;Vendedor ;34000,00
+3144;Marquez;Karina;Cordoba Quiroz;Administración;Administrativo;32000,00
+3032;Rico;Julieta;Cordoba Quiroz;Administración;Vendedor;32000,00
+3193;Mendez;Lina;Cordoba Quiroz;Administración;Vendedor;45000,00
+3812;Jimenez;Carlos;Cordoba Quiroz;Administración;Vendedor;32000,00
+3118;Osorio;Simón;Cordoba Quiroz;Administración;Vendedor;32000,00
+3975;Villamizar;Monica;Cordoba Quiroz;Administración;Aux. Administrativo;15000,00
+3886;Gomez;Melisa;Cordoba Quiroz;Administración;Vendedor;32000,00
+3714;Gracía;Alejandra;Cordoba Quiroz;Diseño;Administrativo;42000,00
+3822;Castro;Amalia;Cordoba Quiroz;Diseño;Vendedor;32000,00
+3875;Uribe;Raquel;Cordoba Quiroz;Diseño;Vendedor;32000,00
+3230;Florez;Gonzalo;Cordoba Quiroz;Diseño;Vendedor;32000,00
+3671;Gutierrez;Santiago;Cordoba Quiroz;Diseño;Aux. Administrativo;15000,00
+3929;Medina;Isabella;Cerro de las Rosas;Diseño;Vendedor;32000,00
+3175;Betancur;Carla;Cerro de las Rosas;Comunicación;Administrativo;56000,00
+3562;Betancurt;Hilda;Cerro de las Rosas;Comunicación;Vendedor;42000,00
+3504;Marquez;Victoria;Cerro de las Rosas;Comunicación;Vendedor;56000,00
+3796;Molina;Pablo;Cerro de las Rosas;Comunicación;Vendedor;65000,00
+3588;Rodriguez;Pamela;Cerro de las Rosas;Comunicación;Vendedor;32000,00
+3667;Hincapie;Estafania;Cerro de las Rosas;Ventas;Aux. Administrativo;13500,00
+3578;Rojas ;Manuel;Mendoza 1;Ventas;Aux. Administrativo;12000,00
+3076;Serna;Barbara;Mendoza 1;Ventas;Aux. Administrativo;16000,00
+3877;Zapata;Leonardo;Mendoza 1;Ventas;Administrativo;41000,00
+3022;Toro;Juliana;Mendoza 1;Ventas;Vendedor;32000,00
+3875;Henao;Dinora;Mendoza 1;Ventas;Vendedor;32000,00
+3371;Vasquez;Elisa;Mendoza 1;Ventas;Vendedor;32000,00
+3836;Castrillón;Alicia;Mendoza 1;Ventas;Vendedor;32000,00
+3561;Lopez;Carlos;Mendoza 1;Ventas;Técnico;28000,00
+3212;Mota;Mauricio;Mendoza 1;Administración;Administrativo;25600,00
+3773;Perez;Adriana;Mendoza 2;Administración;Administrativo;24000,00
+3864;Posada;Miguel;Mendoza 2;Administración;Aux. Administrativo;13500,00
+3346;Arango;Natalia;Mendoza 2;Administración;Vendedor;14600,00
+3600;Hoyos;Camila;Mendoza 2;Administración;Vendedor;13500,00
+3429;Suarez;Susana;Mendoza 2;Administración;Vendedor;13500,00
+3734;Aristizabal;Catalina;Mendoza 2;Administración;Vendedor;15000,00
+3249;Dominguez ;Catalina;Mendoza 2;Administración;Vendedor;13500,00
+3613;Ruiz;Mariana;Bariloche;Administración;Vendedor;13500,00
+3043;Higuita;Jacobo;Bariloche;Administración;Vendedor;13500,00
+3205;Osorio;Gabriel;Bariloche;Administración;Vendedor;12800,00
+3545;Gomez;Sandra;Bariloche;Administración;Técnico;13500,00
+3842;Bustos;Evelyn;Bariloche;Administración;Aux. Administrativo;13500,00
+3032;Rodas;Juan;Bariloche;Administración;Administrativo;56000,00
